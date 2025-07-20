@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "marketing-mix-modeling"
+version = "0.1.0"
+description = "Marketing Mix Modeling DAG Builder with PyMC Bayesian Analysis"
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.12"
+arviz = "0.16.1"
+numpy = "1.23.5"
+pymc = "5.10.4"
+theano-pymc = "^1.1.2"
+statsmodels = "^0.14.5"
+pgmpy = "1.0.0"
+scipy = "1.12.0"
+pandas = "^2.3.1"
+scikit-learn = "^1.7.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
