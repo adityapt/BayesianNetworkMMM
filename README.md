@@ -1,6 +1,6 @@
-# Marketing Mix Modeling DAG Builder
+# Causal Marketing Mix Modeling using Bayesian Networks
 
-A sophisticated React.js application for marketing analytics providing precise and transparent insights into channel performance through advanced Bayesian inference and scalable statistical analysis.
+A sophisticated React.js application for marketing data science providing precise and transparent insights into channel performance through advanced Bayesian inference and scalable statistical analysis.
 
 ## Features
 
